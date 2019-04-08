@@ -8,35 +8,35 @@ canonifyurls    = true
 publishDir = "docs"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Rakesh Bhartiya"
+  subtitle    = "I am an Indian, firstly and lastly"
   copyright   = "© 2018"
 
   cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
-  metaDescription = ""
+  description = "It's a Rakesh Tembhurne Bhartiya's blog. He shares his social and political learnings and opinions thought this blog."
+  metaDescription = "Rakesh Tembhurne Bhartiya is a polititian from central India. He is a National IT head of Akhil Bhartiya Pariwar and Vice President MO at JCI Nagpur Metro."
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
-  linkedinName = "eueung"
-  mediumName = ""
+  twitterName = "tembhurnerakesh"
+  fbName = "rakeshTembhurneBhartiya"
+  # githubName = "eueung"
+  # linkedinName = "eueung"
+  # mediumName = ""
 
   logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
+  orgName = "Akhil Bhartiya Pariwar"
+  orgWebsite = "https://rakesh.bhartiya.me"
   orgDescription = "Here is a description placeholder for your org"
 
   showSupport = true
 
-  author = "EM"
+  author = "Rakesh Bhartiya"
   authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  authorLocation = "Nagpur, Maharashtra, India"
+  authorWebsite = "https://rakesh.bhartiya.me"
+  authorDescription = "Rakesh Tembhurne Bhartiya is a polititian from central India. He is a National IT head of Akhil Bhartiya Pariwar and Vice President MO at JCI Nagpur Metro."
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -52,8 +52,8 @@ publishDir = "docs"
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "Tags"
+  url = "/tags/"
   weight = 100
 
 [[menu.main]]
@@ -62,8 +62,8 @@ publishDir = "docs"
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "Alter Ego"
+  url = "https://rakesh.tembhurne.com"
   weight = 95
 
 
