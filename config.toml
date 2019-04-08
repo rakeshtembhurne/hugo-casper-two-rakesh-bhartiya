@@ -26,9 +26,9 @@ publishDir = "docs"
   # mediumName = ""
 
   # logo = "hugo-logo.png"
-  orgName = "Akhil Bhartiya Pariwar"
+  orgName = "Rakesh Tembhurne Bhartiya"
   orgWebsite = "https://rakesh.bhartiya.me"
-  orgDescription = "Here is a description placeholder for your org"
+  # orgDescription = ""
 
   showSupport = true
 
@@ -41,7 +41,7 @@ publishDir = "docs"
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle = "caspertwo"
 
 [permalinks]
   post = "/post/:slug/"
@@ -65,5 +65,6 @@ publishDir = "docs"
   name = "Alter Ego"
   url = "https://rakesh.tembhurne.com"
   weight = 95
+  hrefTargetBlank = true
 
 

@@ -1,10 +1,8 @@
 ---
-author: ""
+author: "Rakesh Tembhurne Bhartiya"
 date: 2014-09-26
-linktitle: First Post
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
-title: First Post
+linktitle: Why I Started This Blog?
+title: Why I Started This Blog?
 ---
 
 
