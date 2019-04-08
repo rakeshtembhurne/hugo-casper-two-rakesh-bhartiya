@@ -1,9 +1,13 @@
----
-author: "Rakesh Tembhurne Bhartiya"
-date: 2014-09-26
-linktitle: Why I Started This Blog?
-title: Why I Started This Blog?
----
++++
+author = "Rakesh Tembhurne Bhartiya"
+description = "For so long, I have been working as a techie and I got good expertise over technical things. But somewhere in my mind, I was aware I am being nearer to machines than people. I was feeling that I am no more a social person and hence I had to do something for it."
+date = 2014-09-26
+linktitle = "Why I Started This Blog?"
+title = "Why I Started This Blog?"
+image = "img/abp_background.jpg"
+tags = ["JCI Nagpur Metro", "Blood Camp", "Women Empowerment",]
+categories = ["Social Works",]
++++
 
 
 For so long, I have been working as a techie and I got good expertise over technical things. But somewhere in my mind, I was aware I am being nearer to machines than people. I was feeling that I am no more a social person and hence I had to do something for it.
