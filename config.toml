@@ -2,21 +2,21 @@ baseurl         = "https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhar
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 6
+paginate        = 9
 #SectionPagesMenu = "main"
 canonifyurls    = true
 publishDir = "docs"
 
 [params]
-  title       = "Rakesh Bhartiya"
+  title       = "Rakesh Tembhurne Bhartiya"
   subtitle    = "I am an Indian, firstly and lastly"
   copyright   = "© 2018"
 
-  cover       = "img/blog-cover.jpg"
+  cover       = "img/abp_shapath_grahan.png"
   description = "It's a Rakesh Tembhurne Bhartiya's blog. He shares his social and political learnings and opinions thought this blog."
   metaDescription = "Rakesh Tembhurne Bhartiya is a polititian from central India. He is a National IT head of Akhil Bhartiya Pariwar and Vice President MO at JCI Nagpur Metro."
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["css/custom.css"]
   RSSLink = ""
 
   twitterName = "tembhurnerakesh"
@@ -25,15 +25,15 @@ publishDir = "docs"
   # linkedinName = "eueung"
   # mediumName = ""
 
-  logo = "hugo-logo.png"
+  # logo = "hugo-logo.png"
   orgName = "Akhil Bhartiya Pariwar"
   orgWebsite = "https://rakesh.bhartiya.me"
   orgDescription = "Here is a description placeholder for your org"
 
   showSupport = true
 
-  author = "Rakesh Bhartiya"
-  authorAvatar = "img/ghost-icon.png"
+  author = "Rakesh Tembhurne Bhartiya"
+  authorAvatar = "img/rakesh_delhi_profile.jpg"
   authorLocation = "Nagpur, Maharashtra, India"
   authorWebsite = "https://rakesh.bhartiya.me"
   authorDescription = "Rakesh Tembhurne Bhartiya is a polititian from central India. He is a National IT head of Akhil Bhartiya Pariwar and Vice President MO at JCI Nagpur Metro."
