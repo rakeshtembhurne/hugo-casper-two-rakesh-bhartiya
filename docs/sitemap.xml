@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/first-post/</loc>
+    <loc>https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/post/first-post/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/post/</loc>
     <lastmod>2014-09-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/tags/</loc>
     <priority>0</priority>
   </url>
   
