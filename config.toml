@@ -1,4 +1,4 @@
-baseurl         = "https://rakeshtembhurne.github.io/hugo-casper-two-rakesh-bhartiya/"
+baseurl         = "https://rakesh.bhartiya.me/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
